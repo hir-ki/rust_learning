@@ -1,0 +1,11 @@
+[package]
+name = "rust_learning"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "exercise1"
+path = "./exercise1.rs"
+[[bin]]
+name = "exercise2"
+path = "./exercise2.rs"

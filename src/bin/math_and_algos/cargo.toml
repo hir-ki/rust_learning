@@ -1,0 +1,11 @@
+[package]
+name = "rust_learning"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "multiplication_table"
+path = "./multiplication_table.rs"
+[[bin]]
+name = "sum_avg_sg"
+path = "./sum_avg_sg.rs"
